@@ -180,6 +180,9 @@ habr.com#?#section.tm-block_spacing-around:has(> header > div > h2:contains(Бл
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/198106
+barnesandnoble.com###globalNavBanner
+barnesandnoble.com###globalSubBanner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/197618
 pixelcut.ai#$#div[class*="radix"] { display: none !important; }
 pixelcut.ai#$?#body { pointer-events: auto !important; }
